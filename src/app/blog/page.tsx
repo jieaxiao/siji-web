@@ -20,6 +20,7 @@ export default function BlogIndex() {
         </div>
         
         <BlogList posts={posts} />
+        
       </div>
     </div>
   );

@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { ArrowRight, Ship, Plane, Truck, Package, Clock, ShieldCheck, Globe, Users, Building2, BarChart3, CheckCircle2, Warehouse, FileCheck } from 'lucide-react';
+import { ArrowRight, Ship, Plane, Truck, Package, ShieldCheck, Globe, Users, Building2, BarChart3, CheckCircle2, Warehouse, FileCheck } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 export default function Home() {

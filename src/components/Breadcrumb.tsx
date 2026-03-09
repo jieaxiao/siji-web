@@ -40,6 +40,7 @@ export function Breadcrumb() {
       label = '文章详情';
     }
 
+    
     // Special handling for service details if not found in mapping (fallback)
     if (segments[index - 1] === 'services' && !serviceMapping[segment]) {
        // It should be in mapping if loaded from constants, but just in case

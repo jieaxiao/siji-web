@@ -40,7 +40,6 @@ export default async function BlogPost({ params }: BlogPostProps) {
         </div>
 
         <article className="prose prose-lg prose-blue mx-auto max-w-none">
-
           <h1>{post.title}</h1>
           <div className="text-gray-500 text-sm mb-8">{post.date}</div>
 
